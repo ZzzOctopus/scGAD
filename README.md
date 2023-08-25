@@ -28,8 +28,6 @@ Buettner, Pollen and Kolodziejczyk are obtained from https://github.com/Batzoglo
 
 Muraro and Baron-mouse are obtained from https://sourceforge.net/projects/transcriptomeassembly/files/SD-h/Data/
 
-Goolam and Ting are obtained from https://github.com/shaoqiangzhang/scRNAseq_Datasets
-
 Mouse_ES, Mouse_bladder_cell and PBMC4k are obtained from https://github.com/ttgump/scDeepCluster/tree/master/scRNA-seq%20data
 
 Young and Quake_10X_Spleen are obtained from https://github.com/xuebaliang/scziDesk/tree/master/dataset
